@@ -1,3 +1,3 @@
 <?php
 
-echo 'Hello';
+echo 'Hello from remote 2';
