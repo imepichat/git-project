@@ -1,3 +1,3 @@
 <?php
 
-echo 'Hello from remote 22 Hello from Branch';
+echo 'Hello from remote 22 Hello from';
